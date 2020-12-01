@@ -1,0 +1,1323 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# Dinesh Nadarajah <n_dinesh@yahoo.com>, 2003
+# Dr.T.Vasudevan <agnihot3@gmail.com>, 2007
+# Felix <ifelix@redhat.com>, 2006
+# I. Felix <ifelix@redhat.com>, 2008, 2009
+# Jayaradha N <jaya@pune.redhat.com>, 2004
+msgid ""
+msgstr ""
+"Project-Id-Version: GDE2 Desktop Environment\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-12-19 01:20+0100\n"
+"PO-Revision-Date: 2014-12-19 00:23+0000\n"
+"Last-Translator: infirit <infirit@gmail.com>\n"
+"Language-Team: Tamil (http://www.transifex.com/gde2/GDE2/language/ta/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ta\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../gde2-system-monitor.appdata.xml.in.h:1
+msgid "A Process and resource monitor for GDE2 Desktop"
+msgstr ""
+
+#: ../gde2-system-monitor.appdata.xml.in.h:2
+msgid ""
+"<p> GDE2 System Monitor allows to graphically view and manipulate the "
+"running processes on your system. It also provides an overview of available "
+"resources, such as CPU and memory. </p> <p> GDE2 System Monitor is a fork of"
+" GNOME System Monitor and part of the GDE2 Desktop Environment. If you would"
+" like to know more about GDE2 and System Monitor, please visit the project's"
+" home page. </p>"
+msgstr ""
+
+#: ../gde2-system-monitor.desktop.in.in.h:1
+msgid "GDE2 System Monitor"
+msgstr ""
+
+#: ../gde2-system-monitor.desktop.in.in.h:2 ../src/callbacks.cpp:186
+#: ../src/interface.cpp:690 ../src/procman.cpp:710
+msgid "System Monitor"
+msgstr "அமைப்புக் கண்காணி"
+
+#: ../gde2-system-monitor.desktop.in.in.h:3 ../src/callbacks.cpp:187
+msgid "View current processes and monitor system state"
+msgstr "தற்போதைய செயல் மற்றும் கணினியின் நிலையை பார்க்கவும்"
+
+#: ../src/argv.cpp:21
+msgid "Show the System tab"
+msgstr "கணினி தத்தலை காட்டு"
+
+#: ../src/argv.cpp:26
+msgid "Show the Processes tab"
+msgstr ""
+
+#: ../src/argv.cpp:31
+msgid "Show the Resources tab"
+msgstr ""
+
+#: ../src/argv.cpp:36
+msgid "Show the File Systems tab"
+msgstr ""
+
+#: ../src/callbacks.cpp:196
+msgid "translator-credits"
+msgstr "மொழிபெயர்ப்பாளர்-சன்மானம்"
+
+#: ../src/disks.cpp:299 ../src/memmaps.cpp:361
+msgid "Device"
+msgstr "சாதனம்"
+
+#: ../src/disks.cpp:300
+msgid "Directory"
+msgstr "அடைவு"
+
+#: ../src/disks.cpp:301 ../src/gsm_color_button.c:227 ../src/openfiles.cpp:251
+msgid "Type"
+msgstr "þனம்"
+
+#: ../src/disks.cpp:302
+msgid "Total"
+msgstr "மொத்தம்"
+
+#: ../src/disks.cpp:303
+msgid "Free"
+msgstr "வெற்றிடம்"
+
+#: ../src/disks.cpp:304
+msgid "Available"
+msgstr "இருப்பவை"
+
+#: ../src/disks.cpp:305
+msgid "Used"
+msgstr "பயன்படுத்தப்பட்ட"
+
+#. xgettext: ? stands for unknown
+#: ../src/e_date.c:155
+msgid "?"
+msgstr "?"
+
+#: ../src/e_date.c:162
+msgid "Today %l:%M %p"
+msgstr "இன்று %l:%M %p"
+
+#: ../src/e_date.c:171
+msgid "Yesterday %l:%M %p"
+msgstr "நேற்று %l:%M %p"
+
+#: ../src/e_date.c:183
+msgid "%a %l:%M %p"
+msgstr "%a %l:%M %p"
+
+#: ../src/e_date.c:191
+msgid "%b %d %l:%M %p"
+msgstr "%b %d %l:%M %p"
+
+#: ../src/e_date.c:193
+msgid "%b %d %Y"
+msgstr "%b %d %Y"
+
+#: ../src/gsm_color_button.c:203
+msgid "Fraction"
+msgstr "பின்னம்"
+
+#. TRANSLATORS: description of the pie color picker's (mem, swap) filled
+#. percentage property
+#: ../src/gsm_color_button.c:205
+msgid "Percentage full for pie color pickers"
+msgstr ""
+
+#: ../src/gsm_color_button.c:212
+msgid "Title"
+msgstr "தலைப்பு"
+
+#: ../src/gsm_color_button.c:213
+msgid "The title of the color selection dialog"
+msgstr "நிற தேர்ந்தெடுத்தல் உரையாடலின் தலைப்பு"
+
+#: ../src/gsm_color_button.c:214 ../src/gsm_color_button.c:639
+msgid "Pick a Color"
+msgstr "ஒரு நிறத்தை எடு"
+
+#: ../src/gsm_color_button.c:220
+msgid "Current Color"
+msgstr "நடப்பு நிறம்"
+
+#: ../src/gsm_color_button.c:221
+msgid "The selected color"
+msgstr "தேர்ந்தெடுக்கப்பட்ட நிறம்"
+
+#: ../src/gsm_color_button.c:228
+msgid "Type of color picker"
+msgstr "நிற எடுப்பியின் வகை"
+
+#: ../src/gsm_color_button.c:562
+msgid "Received invalid color data\n"
+msgstr "தவறான நிற தரவு பெறப்பட்டது\n"
+
+#: ../src/gsm_color_button.c:662
+msgid "Click to set graph colors"
+msgstr "வரைபட நிறங்களை அமைக்க சொடுக்கு"
+
+#. xgettext: noun, top level menu.
+#. "File" did not make sense for system-monitor
+#: ../src/interface.cpp:51
+msgid "_Monitor"
+msgstr "கண்காணி (_M)"
+
+#: ../src/interface.cpp:52
+msgid "_Edit"
+msgstr "தொகு (_E)"
+
+#: ../src/interface.cpp:53
+msgid "_View"
+msgstr "பார்வை (_V)"
+
+#: ../src/interface.cpp:54
+msgid "_Help"
+msgstr "உதவி (_H)"
+
+#: ../src/interface.cpp:56
+msgid "Search for _Open Files"
+msgstr "_த திறந்த கோப்புகளுக்கு தேடல்"
+
+#: ../src/interface.cpp:57
+msgid "Search for open files"
+msgstr "திறந்த கோப்புகளுக்கு தேடல்"
+
+#: ../src/interface.cpp:59
+msgid "Quit the program"
+msgstr "நிரலை விட்டு வெளியேறு"
+
+#: ../src/interface.cpp:62
+msgid "_Stop Process"
+msgstr "செயலை நிறுத்து (_S)"
+
+#: ../src/interface.cpp:63
+msgid "Stop process"
+msgstr "செயலை நிறுத்து"
+
+#: ../src/interface.cpp:64
+msgid "_Continue Process"
+msgstr "பணியை தொடரவும் (_C)"
+
+#: ../src/interface.cpp:65
+msgid "Continue process if stopped"
+msgstr "நிறுத்தப்பட்டால் செயலை தொடரவும்"
+
+#: ../src/interface.cpp:67 ../src/procdialogs.cpp:90
+msgid "_End Process"
+msgstr "(_E)செயல்களை முடி"
+
+#: ../src/interface.cpp:68
+msgid "Force process to finish normally"
+msgstr "சாதாரணமாக முடிக்க கட்டாயப்படுத்திய செயல்"
+
+#: ../src/interface.cpp:69 ../src/procdialogs.cpp:79
+msgid "_Kill Process"
+msgstr "(_K)செயலை கொல்"
+
+#: ../src/interface.cpp:70
+msgid "Force process to finish immediately"
+msgstr "செயலை உடனடியாக முடிக்க கட்டாயப்படுத்தல்"
+
+#: ../src/interface.cpp:71
+msgid "_Change Priority"
+msgstr ""
+
+#: ../src/interface.cpp:72
+msgid "Change the order of priority of process"
+msgstr "செயலின் முக்கியத்துவ வரிசையை மாற்று"
+
+#: ../src/interface.cpp:74
+msgid "Configure the application"
+msgstr "பயன்பாட்டினை கட்டமை"
+
+#: ../src/interface.cpp:76
+msgid "_Refresh"
+msgstr "புதுப்பி (_R)"
+
+#: ../src/interface.cpp:77
+msgid "Refresh the process list"
+msgstr "செயல் பட்டியலை புதுப்பி"
+
+#: ../src/interface.cpp:79
+msgid "_Memory Maps"
+msgstr "(_M)நினைவக வரைபடம்"
+
+#: ../src/interface.cpp:80
+msgid "Open the memory maps associated with a process"
+msgstr "செயலோடு தொடர்புடைய நினைவக ஒப்பிடுகளை திற"
+
+#. Translators: this means 'Files that are open' (open is no verb here
+#: ../src/interface.cpp:82
+msgid "Open _Files"
+msgstr "கோப்புகளை திற (_F)"
+
+#: ../src/interface.cpp:83
+msgid "View the files opened by a process"
+msgstr "ஒரு செயலால் திறக்கப்பட்ட கோப்புகளை பார்க்கவும்"
+
+#: ../src/interface.cpp:84
+msgid "_Properties"
+msgstr ""
+
+#: ../src/interface.cpp:85
+msgid "View additional information about a process"
+msgstr ""
+
+#: ../src/interface.cpp:88
+msgid "_Contents"
+msgstr "உள்ளடக்கங்கள் (_C)"
+
+#: ../src/interface.cpp:89
+msgid "Open the manual"
+msgstr "கையேட்டினை திறக்கவும்"
+
+#: ../src/interface.cpp:91
+msgid "About this application"
+msgstr "இந்த பயன்பாட்டினை பற்றி"
+
+#: ../src/interface.cpp:96
+msgid "_Dependencies"
+msgstr "சார்ந்தவை (_D)"
+
+#: ../src/interface.cpp:97
+msgid "Show parent/child relationship between processes"
+msgstr "செயல்களுக்கிடையே பெற்றோர்/சேய் உறவுமுறையை காட்டு"
+
+#: ../src/interface.cpp:104
+msgid "_Active Processes"
+msgstr "செயலில் உள்ள செயல்கள் (_A)"
+
+#: ../src/interface.cpp:105
+msgid "Show active processes"
+msgstr "செயலில் உள்ள செயல்களை காட்டு"
+
+#: ../src/interface.cpp:106
+msgid "A_ll Processes"
+msgstr "அனைத்து செயல்கள் (_l)"
+
+#: ../src/interface.cpp:107
+msgid "Show all processes"
+msgstr "அனைத்து செயல்களையும் காட்டு"
+
+#: ../src/interface.cpp:108
+msgid "M_y Processes"
+msgstr "என் செயல்கள் (_y)"
+
+#: ../src/interface.cpp:109
+msgid "Show only user-owned processes"
+msgstr ""
+
+#: ../src/interface.cpp:114 ../src/util.cpp:217
+msgid "Very High"
+msgstr ""
+
+#: ../src/interface.cpp:115
+msgid "Set process priority to very high"
+msgstr ""
+
+#: ../src/interface.cpp:116 ../src/util.cpp:219
+msgid "High"
+msgstr ""
+
+#: ../src/interface.cpp:117
+msgid "Set process priority to high"
+msgstr ""
+
+#: ../src/interface.cpp:118 ../src/util.cpp:221
+msgid "Normal"
+msgstr ""
+
+#: ../src/interface.cpp:119
+msgid "Set process priority to normal"
+msgstr ""
+
+#: ../src/interface.cpp:120 ../src/util.cpp:223
+msgid "Low"
+msgstr ""
+
+#: ../src/interface.cpp:121
+msgid "Set process priority to low"
+msgstr ""
+
+#: ../src/interface.cpp:122 ../src/util.cpp:225
+msgid "Very Low"
+msgstr ""
+
+#: ../src/interface.cpp:123
+msgid "Set process priority to very low"
+msgstr ""
+
+#: ../src/interface.cpp:124
+msgid "Custom"
+msgstr ""
+
+#: ../src/interface.cpp:125
+msgid "Set process priority manually"
+msgstr ""
+
+#: ../src/interface.cpp:231
+msgid "End _Process"
+msgstr "(_P)செயலை முடி"
+
+#. Translators: color picker title, %s is CPU, Memory, Swap, Receiving,
+#. Sending
+#: ../src/interface.cpp:279
+#, c-format
+msgid "Pick a Color for '%s'"
+msgstr ""
+
+#: ../src/interface.cpp:290
+msgid "CPU History"
+msgstr "CPU வரலாறு"
+
+#: ../src/interface.cpp:344 ../src/procproperties.cpp:139
+msgid "CPU"
+msgstr "CPU"
+
+#: ../src/interface.cpp:346
+#, c-format
+msgid "CPU%d"
+msgstr "CPU%d"
+
+#: ../src/interface.cpp:367
+msgid "Memory and Swap History"
+msgstr "நினைவகம் மற்றும் ஸ்வாப் வரலாறு"
+
+#: ../src/interface.cpp:401 ../src/proctable.cpp:262
+#: ../src/procproperties.cpp:133
+msgid "Memory"
+msgstr "நினைவகம்"
+
+#: ../src/interface.cpp:432
+msgid "Swap"
+msgstr "இடமாற்று"
+
+#: ../src/interface.cpp:463
+msgid "Network History"
+msgstr "பிணைய வரலாறு"
+
+#: ../src/interface.cpp:496
+msgid "Receiving"
+msgstr "பெறுகிறது"
+
+#: ../src/interface.cpp:529
+msgid "Total Received"
+msgstr "மொத்தம் பெறப்பட்டது:"
+
+#: ../src/interface.cpp:557
+msgid "Sending"
+msgstr "அனுப்புகிறது"
+
+#: ../src/interface.cpp:591
+msgid "Total Sent"
+msgstr "மொத்தம் அனுப்பப்பட்டது"
+
+#. procman_create_sysinfo_view();
+#: ../src/interface.cpp:777
+msgid "System"
+msgstr "அமைப்பு"
+
+#: ../src/interface.cpp:781 ../src/procdialogs.cpp:549
+msgid "Processes"
+msgstr "செயல்கள்"
+
+#: ../src/interface.cpp:785 ../src/procdialogs.cpp:662
+msgid "Resources"
+msgstr "மூலங்கள்"
+
+#: ../src/interface.cpp:789 ../src/procdialogs.cpp:727
+#: ../src/procdialogs.cpp:731
+msgid "File Systems"
+msgstr "கோப்பு அமைப்புகள்"
+
+#: ../src/load-graph.cpp:170
+#, c-format
+msgid "%u second"
+msgid_plural "%u seconds"
+msgstr[0] "%u விநாடி"
+msgstr[1] "%u விநாடிகள்"
+
+#: ../src/load-graph.cpp:351
+msgid "not available"
+msgstr ""
+
+#. xgettext: 540MiB (53 %) of 1.0 GiB
+#: ../src/load-graph.cpp:354
+#, c-format
+msgid "%s (%.1f%%) of %s"
+msgstr ""
+
+#: ../src/lsof.cpp:126
+msgid "Error"
+msgstr ""
+
+#: ../src/lsof.cpp:127
+#, c-format
+msgid "'%s' is not a valid Perl regular expression."
+msgstr ""
+
+#: ../src/lsof.cpp:273
+msgid "Process"
+msgstr "செயல்பாடு"
+
+#: ../src/lsof.cpp:285
+msgid "PID"
+msgstr "PID"
+
+#: ../src/lsof.cpp:295 ../src/memmaps.cpp:339
+msgid "Filename"
+msgstr "கோப்புப்பெயர்"
+
+#. gtk_window_set_modal(GTK_WINDOW(dialog), TRUE);
+#: ../src/lsof.cpp:312
+msgid "Search for Open Files"
+msgstr "திறந்த கோப்புகளுக்கு தேடல்"
+
+#: ../src/lsof.cpp:339
+msgid "_Name contains:"
+msgstr "பெயர் கொண்ட: (_N)"
+
+#. The default accelerator collides with the default close accelerator.
+#: ../src/lsof.cpp:353
+msgid "C_lear"
+msgstr ""
+
+#: ../src/lsof.cpp:357
+msgid "Case insensitive matching"
+msgstr "எழுத்துவகை உதாசீனம் செய்த பொருத்தம்"
+
+#: ../src/lsof.cpp:365
+msgid "S_earch results:"
+msgstr "(_e)தேடல் விடைகள்:"
+
+#. xgettext: virtual memory start
+#: ../src/memmaps.cpp:341
+msgid "VM Start"
+msgstr "VM துவக்கம்"
+
+#. xgettext: virtual memory end
+#: ../src/memmaps.cpp:343
+msgid "VM End"
+msgstr "VM முடிவு"
+
+#. xgettext: virtual memory syze
+#: ../src/memmaps.cpp:345
+msgid "VM Size"
+msgstr "VM அளவு"
+
+#: ../src/memmaps.cpp:346
+msgid "Flags"
+msgstr "குறிகள்"
+
+#. xgettext: virtual memory offset
+#: ../src/memmaps.cpp:348
+msgid "VM Offset"
+msgstr "VM ஒதுக்கம்"
+
+#. xgettext: memory that has not been modified since
+#. it has been allocated
+#: ../src/memmaps.cpp:351
+msgid "Private clean"
+msgstr "சுத்தமான தனிமை"
+
+#. xgettext: memory that has been modified since it
+#. has been allocated
+#: ../src/memmaps.cpp:354
+msgid "Private dirty"
+msgstr "மோசமான தனிமை"
+
+#. xgettext: shared memory that has not been modified
+#. since it has been allocated
+#: ../src/memmaps.cpp:357
+msgid "Shared clean"
+msgstr "சுத்தமாக பகிர்ந்த"
+
+#. xgettext: shared memory that has been modified
+#. since it has been allocated
+#: ../src/memmaps.cpp:360
+msgid "Shared dirty"
+msgstr "மோசமாக பகிர்ந்த"
+
+#: ../src/memmaps.cpp:362
+msgid "Inode"
+msgstr "Inode"
+
+#: ../src/memmaps.cpp:467
+msgid "Memory Maps"
+msgstr "நினைவக வரைபடம்"
+
+#: ../src/memmaps.cpp:479
+#, c-format
+msgid "_Memory maps for process \"%s\" (PID %u):"
+msgstr "செயல்பாடு  \"%s\" க்கு நினைவு படம் (PID %u):"
+
+#: ../src/openfiles.cpp:38
+msgid "file"
+msgstr "கோப்பு"
+
+#: ../src/openfiles.cpp:40
+msgid "pipe"
+msgstr "குழாய்"
+
+#: ../src/openfiles.cpp:42
+msgid "IPv6 network connection"
+msgstr "IPv6 பிணைய இணைப்பு"
+
+#: ../src/openfiles.cpp:44
+msgid "IPv4 network connection"
+msgstr "IPv4 பிணைய இணைப்பு"
+
+#: ../src/openfiles.cpp:46
+msgid "local socket"
+msgstr "உள்ளமை இணைப்பி"
+
+#: ../src/openfiles.cpp:48
+msgid "unknown type"
+msgstr "தெரியாத வகை"
+
+#. Translators: "FD" here means "File Descriptor". Please use
+#. a very short translation if possible, and at most
+#. 2-3 characters for it to be able to fit in the UI.
+#: ../src/openfiles.cpp:250
+msgid "FD"
+msgstr "FD"
+
+#: ../src/openfiles.cpp:252
+msgid "Object"
+msgstr "பொருள்"
+
+#: ../src/openfiles.cpp:337
+msgid "Open Files"
+msgstr "கோப்புகளை திற"
+
+#: ../src/openfiles.cpp:358
+#, c-format
+msgid "_Files opened by process \"%s\" (PID %u):"
+msgstr " \"%s\" செயலால் கோப்புகள் திறக்கப்பட்டன (PID %u): (_F)"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:1
+msgid "Main window size and position in the form (width, height, xpos, ypos)"
+msgstr ""
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:2
+msgid "Show process dependencies in tree form"
+msgstr "செயல் சார்ந்திருப்பவைகளை கிளை வடிவில் காட்டு"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:3
+msgid "Solaris mode for CPU percentage"
+msgstr "சிபியூ சதவிகிதத்திற்கு சோலாரிஸ் முறைமை"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:4
+msgid ""
+"If TRUE, system-monitor operates in 'Solaris mode' where a task's CPU usage "
+"is divided by the total number of CPUs. Otherwise, it operates in 'Irix "
+"mode'."
+msgstr ""
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:5
+msgid "Enable/Disable smooth refresh"
+msgstr "மென்மையான புதுப்பித்தலை செயல்படுத்து/செயல்நீக்கு"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:6
+msgid "Show warning dialog when killing processes"
+msgstr "செயலை நிறுத்தும் போது எச்சரிக்கை உரையாடலை காட்டவும்"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:7
+msgid "Time in milliseconds between updates of the process view"
+msgstr "செயல் பார்வையில் மேம்பாடுகளுக்கிடையே நேரம் மில்லி விநாடிகளில்"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:8
+msgid "Time in milliseconds between updates of the graphs"
+msgstr "வரைபடங்களின் மேம்பாடுகளுக்கிடையே நேரம் மில்லி விநாடிகளில்"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:9
+msgid "Whether information about all file systems should be displayed"
+msgstr ""
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:10
+msgid ""
+"Whether to display information about all file systems (including types like "
+"'autofs' and 'procfs'). Useful for getting a list of all currently mounted "
+"file systems."
+msgstr ""
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:11
+msgid "Time in milliseconds between updates of the devices list"
+msgstr "சாதனங்கள் பட்டியலில் மேம்பாடுகளுக்கிடையே நேரம் மில்லி விநாடிகளில்"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:12
+msgid ""
+"Determines which processes to show by default. 0 is All, 1 is user, and 2 is"
+" active"
+msgstr "செயல்பாடுகளில் எது முன்னிருப்பாக காட்ட வேண்டும் என நிர்ணயிக்கிறது.  அனைத்தும் க்கு 0, பயனர் க்கு 1 மற்றும் செயல்பாட்டில் உள்ளதுக்கு 2."
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:13
+msgid "Saves the currently viewed tab"
+msgstr "தற்போது பார்க்கப்பட்ட தத்தலை சேமிக்கிறது"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:14
+msgid ""
+"0 for the System Info, 1 for the processes list, 2 for the resources and 3 "
+"for the disks list"
+msgstr "அமைப்பு தகவலுக்கு 0, செயலாக்க பட்டியலுக்கு 1, மற்றும் வட்டுகள் பட்டியலுக்கு 3."
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:15
+msgid "Default graph CPU color"
+msgstr ""
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:16
+msgid "Default graph cpu color"
+msgstr "முன்னிருப்பு வரைபட cpu நிறம்"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:17
+msgid "Default graph memory color"
+msgstr ""
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:18
+msgid "Default graph swap color"
+msgstr "முன்னிருப்பு வரைபட மாற்று நிறம்"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:19
+msgid "Default graph incoming network traffic color"
+msgstr "முன்னிருப்பு உள்வரும் வலையமைப்பு போக்குவரத்து வரைபட நிறம்"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:20
+msgid "Default graph outgoing network traffic color"
+msgstr "முன்னிருப்பு வெளிபோகும் வலையமைப்பு போக்குவரத்து வரைபட நிறம்"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:21
+msgid "Show network traffic in bits"
+msgstr ""
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:22
+msgid "Process view sort column"
+msgstr "செயல் பார்வை வரிசை நிரல்"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:23
+msgid "Process view columns order"
+msgstr "செயல் பார்வை நிரல்கள் வரிசையில்"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:24
+msgid "Process view sort order"
+msgstr "செயல் பார்வை வரிசை"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:25
+msgid "Width of process 'name' column"
+msgstr "பெயர்  'name' செயலுக்கு பத்திக்கு அகலம்"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:26
+msgid "Show process 'name' column on startup"
+msgstr "துவக்கத்தில் செயல்பாடு பெயர் 'name' பத்தியை காட்டுக"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:27
+msgid "Width of process 'owner' column"
+msgstr "உரிமையாளர் 'owner' '  செயலுக்கு பத்திக்கு அகலம்"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:28
+msgid "Show process 'owner' column on startup"
+msgstr "துவக்கத்தில் செயல்பாடு உரிமையாளர் 'owner' பத்தியை காட்டுக"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:29
+msgid "Width of process 'status' column"
+msgstr "நிலைமை 'status'  செயலுக்கு பத்திக்கு அகலம்"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:30
+msgid "Show process 'status' column on startup"
+msgstr "துவக்கத்தில் செயல்பாடு நிலைமை 'status'  பத்தியை காட்டுக"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:31
+msgid "Width of process 'virtual memory' column"
+msgstr "மெய்நிகர் நினைவகம்  'virtual memory'  செயலுக்கு பத்திக்கு அகலம்"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:32
+msgid "Show process 'virtual memory' column on startup"
+msgstr "துவக்கத்தில் செயல்பாடு மெய்நிகர் நினைவகம் 'virtual memory' பத்தியை காட்டுக"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:33
+msgid "Width of process 'resident memory' column"
+msgstr "இருப்பில் உள்ள நினைவகம்- 'resident memory'  செயலுக்கு பத்திக்கு அகலம்"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:34
+msgid "Show process 'resident memory' column on startup"
+msgstr "துவக்கத்தில் செயல்பாடு இருப்பில் உள்ள நினைவகம்- 'resident memory' பத்தியை காட்டுக"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:35
+msgid "Width of process 'writable memory' column"
+msgstr " 'writable memory' செயலுக்கு பத்திக்கு அகலம்"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:36
+msgid "Show process 'writable memory' column on startup"
+msgstr "துவக்கத்தில் செயல்பாடு எழுதக்கூடிய நினைவகம் 'writable memory' பத்தியை காட்டுக"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:37
+msgid "Width of process 'shared memory' column"
+msgstr "பகிர்ந்த நினைவகம் 'shared memory'  செயலுக்கு பத்திக்கு அகலம்"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:38
+msgid "Show process 'shared memory' column on startup"
+msgstr "துவக்கத்தில் செயல்பாடு பகிர்ந்த நினைவகம் 'shared memory' பத்தியை காட்டுக"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:39
+msgid "Width of process 'X server memory' column"
+msgstr "எக்ஸ் வழங்கன் நினைவகம்  'X server memory'  செயலுக்கு பத்திக்கு அகலம்"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:40
+msgid "Show process 'X server memory' column on startup"
+msgstr "துவக்கத்தில் செயல்பாடு எக்ஸ் வழங்கன் நினைவகம்  'X server memory'  பத்தியை காட்டுக"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:42
+#, no-c-format
+msgid "Width of process 'CPU %' column"
+msgstr "சிபியூ %( 'CPU %' ) செயலுக்கு பத்தி அகலம்"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:44
+#, no-c-format
+msgid "Show process 'CPU %' column on startup"
+msgstr "துவக்கத்தில் செயல்பாடு சிபியூ %( 'CPU %' ) பத்தியை காட்டுக"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:45
+msgid "Width of process 'CPU time' column"
+msgstr "'சிபியூ நேரம்' செயலுக்கு பத்தி அகலம்"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:46
+msgid "Show process 'CPU time' column on startup"
+msgstr "துவக்கத்தில் செயல்பாடு சிபியூ நேரம் ( 'CPU time' ) பத்தியை காட்டுக இயக்கு"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:47
+msgid "Width of process 'start time' column"
+msgstr "துவக்க நேரம் 'start time'  செயலுக்கு பத்திக்கு அகலம்"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:48
+msgid "Show process 'start time' column on startup"
+msgstr "துவக்கத்தில் செயல்பாடு துவக்க நேரம்- 'start time' பத்தியை காட்டுக"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:49
+msgid "Width of process 'nice' column"
+msgstr "நைஸ் 'nice' செயலுக்கு பத்திக்கு அகலம்"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:50
+msgid "Show process 'nice' column on startup"
+msgstr "துவக்கத்தில் செயல்பாடு நைஸ் 'nice' பத்தியை காட்டுக"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:51
+msgid "Width of process 'PID' column"
+msgstr "செயல்பாடு 'PID'   செயலுக்கு பத்தி அகலம்"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:52
+msgid "Show process 'PID' column on startup"
+msgstr "துவக்கத்தில் செயல்பாடு 'PID'  பத்தியை காட்டுக "
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:53
+msgid "Width of process 'SELinux security context' column"
+msgstr "எஸ்ஈலினக்ஸ் பாதுகாப்பு சூழல் 'SELinux security context'  செயலுக்கு பத்திக்கு அகலம்"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:54
+msgid "Show process 'SELinux security context' column on startup"
+msgstr "துவக்கத்தில் செயல்பாடு எஸ்ஈலினக்ஸ் பாதுகாப்பு சூழல் 'SELinux security context'  பத்தியை காட்டுக"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:55
+msgid "Width of process 'arguments' column"
+msgstr "தருமதிப்பு-'arguments' செயலுக்கு பத்திக்கு அகலம்"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:56
+msgid "Show process 'arguments' column on startup"
+msgstr "துவக்கத்தில் செயல்பாடு தருமதிப்பு 'arguments' பத்தியை காட்டுக"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:57
+msgid "Width of process 'estigde2d memory usage' column"
+msgstr "கணிக்கப்பட்ட நினைவக பயன்பாடு- 'estigde2d memory usage' செயலுக்கு பத்திக்கு அகலம்"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:58
+msgid "Show process 'estigde2d memory usage' column on startup"
+msgstr "துவக்கத்தில் செயல்பாடு கணிக்கப்பட்ட நினைவக பயன்பாடு- 'estigde2d memory usage' பத்தியை காட்டுக"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:59
+msgid "Width of process 'Waiting Channel' column"
+msgstr "'காத்திருக்கும் சேனல்' செயலுக்கு பத்தியின் அகலம்"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:60
+msgid "Show process 'Waiting Channel' column on startup"
+msgstr "துவக்கத்தில் செயல்பாடு 'காத்திருக்கும் சேனல்' பத்தியைக் காட்டுக"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:61
+msgid "Width of process 'Control Group' column"
+msgstr ""
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:62
+msgid "Show process 'Control Group' column on startup"
+msgstr ""
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:63
+msgid "Width of process 'Unit' column"
+msgstr ""
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:64
+msgid "Show process 'Unit' column on startup"
+msgstr ""
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:65
+msgid "Width of process 'Session' column"
+msgstr ""
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:66
+msgid "Show process 'Session' column on startup"
+msgstr ""
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:67
+msgid "Width of process 'Seat' column"
+msgstr ""
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:68
+msgid "Show process 'Seat' column on startup"
+msgstr ""
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:69
+msgid "Width of process 'Owner' column"
+msgstr ""
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:70
+msgid "Show process 'Owner' column on startup"
+msgstr ""
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:71
+msgid "Width of process 'Priority' column"
+msgstr ""
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:72
+msgid "Show process 'Priority' column on startup"
+msgstr ""
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:73
+msgid "Disk view sort colum"
+msgstr ""
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:74
+msgid "Disk view sort order"
+msgstr ""
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:75
+msgid "Disk view columns order"
+msgstr "வட்டு பார்வை நிரல்கள் வரிசை"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:76
+msgid "Memory map sort column"
+msgstr ""
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:77
+msgid "Memory map sort order"
+msgstr ""
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:78
+msgid "Open files sort column"
+msgstr ""
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:79
+msgid "Open files sort order"
+msgstr ""
+
+#: ../src/procactions.cpp:76
+#, c-format
+msgid ""
+"Cannot change the priority of process with PID %d to %d.\n"
+"%s"
+msgstr ""
+
+#: ../src/procactions.cpp:156
+#, c-format
+msgid ""
+"Cannot kill process with PID %d with signal %d.\n"
+"%s"
+msgstr ""
+
+#. xgettext: primary alert message
+#: ../src/procdialogs.cpp:72
+#, c-format
+msgid "Kill the selected process »%s« (PID: %u)?"
+msgstr ""
+
+#. xgettext: secondary alert message
+#: ../src/procdialogs.cpp:76
+msgid ""
+"Killing a process may destroy data, break the session or introduce a "
+"security risk. Only unresponsive processes should be killed."
+msgstr ""
+
+#. xgettext: primary alert message
+#: ../src/procdialogs.cpp:83
+#, c-format
+msgid "End the selected process »%s« (PID: %u)?"
+msgstr ""
+
+#. xgettext: secondary alert message
+#: ../src/procdialogs.cpp:87
+msgid ""
+"Ending a process may destroy data, break the session or introduce a security"
+" risk. Only unresponsive processes should be ended."
+msgstr ""
+
+#: ../src/procdialogs.cpp:125 ../src/procdialogs.cpp:223
+#, c-format
+msgid "(%s Priority)"
+msgstr ""
+
+#: ../src/procdialogs.cpp:173
+#, c-format
+msgid "Change Priority of Process »%s« (PID: %u)"
+msgstr ""
+
+#: ../src/procdialogs.cpp:185
+msgid "Change _Priority"
+msgstr "(_P)முன்னுரிமையை மாற்று"
+
+#: ../src/procdialogs.cpp:208
+msgid "_Nice value:"
+msgstr "(_N)நல்ல மதிப்பு:"
+
+#: ../src/procdialogs.cpp:229
+msgid "Note:"
+msgstr "குறிப்பு:"
+
+#: ../src/procdialogs.cpp:230
+msgid ""
+"The priority of a process is given by its nice value. A lower nice value "
+"corresponds to a higher priority."
+msgstr "இந்த செயலுக்கு மிக நல்ல மதிப்பு தரப்பட்டுள்ளது. குறைந்த நன்மதிப்பு மிகமுக்கிய செயலை குறிக்கும்"
+
+#: ../src/procdialogs.cpp:467
+msgid "Icon"
+msgstr "சின்னம்"
+
+#: ../src/procdialogs.cpp:526
+msgid "System Monitor Preferences"
+msgstr "கணினி திரையக முன்னுரிமைகள்"
+
+#: ../src/procdialogs.cpp:556
+msgid "Behavior"
+msgstr "ஒழுக்கம்"
+
+#: ../src/procdialogs.cpp:575 ../src/procdialogs.cpp:688
+#: ../src/procdialogs.cpp:750
+msgid "_Update interval in seconds:"
+msgstr "புதுப்பிக்கும் கால இடைவெளி நொடிகளில்: (_U)"
+
+#: ../src/procdialogs.cpp:600
+msgid "Enable _smooth refresh"
+msgstr "மென்மையான புதுப்பித்தலை செயல்படுத்து (_s)"
+
+#: ../src/procdialogs.cpp:613
+msgid "Alert before ending or _killing processes"
+msgstr "செயலை நிறுத்தும் போது அல்லது முடிக்கும் போது எச்சரிக்கை செய் (_k)"
+
+#: ../src/procdialogs.cpp:626
+msgid "Divide CPU usage by CPU count"
+msgstr ""
+
+#: ../src/procdialogs.cpp:627
+msgid "Solaris mode"
+msgstr "சோலாரிஸ் முறைமை"
+
+#: ../src/procdialogs.cpp:644 ../src/procdialogs.cpp:784
+msgid "Information Fields"
+msgstr "தகவல் புலங்கள்"
+
+#: ../src/procdialogs.cpp:657
+msgid "Process i_nformation shown in list:"
+msgstr "பட்டியலில் காட்டப்படும் செயல்பாடு தகவல்:"
+
+#: ../src/procdialogs.cpp:669
+msgid "Graphs"
+msgstr "வரைபடம்"
+
+#: ../src/procdialogs.cpp:708
+msgid "Show network speed in bits"
+msgstr "வலைப்பின்னல் வேகத்தை  பிட்டுகளில் காட்டுக"
+
+#: ../src/procdialogs.cpp:770
+msgid "Show _all file systems"
+msgstr ""
+
+#: ../src/procdialogs.cpp:797
+msgid "File system i_nformation shown in list:"
+msgstr "பட்டியலில் காட்டப்படும் கோப்பு முறைமை தகவல் (_n):"
+
+#: ../src/procman.cpp:659
+msgid "A simple process and system monitor."
+msgstr "ஒரு எளிய முறை மற்றும் கணினி கண்காணி."
+
+#: ../src/proctable.cpp:247 ../src/procproperties.cpp:130
+msgid "Process Name"
+msgstr "செயல் பெயர்"
+
+#: ../src/proctable.cpp:248 ../src/procproperties.cpp:131
+msgid "User"
+msgstr "பயனர்"
+
+#: ../src/proctable.cpp:249 ../src/procproperties.cpp:132
+msgid "Status"
+msgstr "நிலை"
+
+#: ../src/proctable.cpp:250 ../src/procproperties.cpp:134
+msgid "Virtual Memory"
+msgstr "மெய்நிகர் நினைவகம்"
+
+#: ../src/proctable.cpp:251 ../src/procproperties.cpp:135
+msgid "Resident Memory"
+msgstr "இருப்பிட நினைவகம்"
+
+#: ../src/proctable.cpp:252 ../src/procproperties.cpp:136
+msgid "Writable Memory"
+msgstr "எழுதப்படும் நினைவகம்"
+
+#: ../src/proctable.cpp:253 ../src/procproperties.cpp:137
+msgid "Shared Memory"
+msgstr "பகிரப்பட்ட நினைவகம்"
+
+#: ../src/proctable.cpp:254 ../src/procproperties.cpp:138
+msgid "X Server Memory"
+msgstr "X சேவகன் நினைவிடம்"
+
+#: ../src/proctable.cpp:255
+#, no-c-format
+msgid "% CPU"
+msgstr "% CPU"
+
+#: ../src/proctable.cpp:256 ../src/procproperties.cpp:140
+msgid "CPU Time"
+msgstr "CPU நேரம்"
+
+#: ../src/proctable.cpp:257 ../src/procproperties.cpp:141
+msgid "Started"
+msgstr "ஆரம்பிக்கப்பட்டது"
+
+#: ../src/proctable.cpp:258 ../src/procproperties.cpp:142
+msgid "Nice"
+msgstr "நன்று"
+
+#: ../src/proctable.cpp:259 ../src/procproperties.cpp:144
+msgid "ID"
+msgstr "எண்"
+
+#: ../src/proctable.cpp:260 ../src/procproperties.cpp:145
+msgid "Security Context"
+msgstr "பாதுகாப்பு சூழல்"
+
+#: ../src/proctable.cpp:261 ../src/procproperties.cpp:146
+msgid "Command Line"
+msgstr "கட்டளை வரி"
+
+#. xgettext: combined noun, the function the process is waiting in, see wchan
+#. ps(1)
+#: ../src/proctable.cpp:264 ../src/procproperties.cpp:147
+msgid "Waiting Channel"
+msgstr "காத்திருக்கும் சேனல்"
+
+#: ../src/proctable.cpp:265
+msgid "Control Group"
+msgstr ""
+
+#: ../src/proctable.cpp:266
+msgid "Unit"
+msgstr ""
+
+#: ../src/proctable.cpp:267
+msgid "Session"
+msgstr ""
+
+#. TRANSLATORS: Seat = i.e. the physical seat the session of the process
+#. belongs to, only
+#. for multi-seat environments. See
+#. http://en.wikipedia.org/wiki/Multiseat_configuration
+#: ../src/proctable.cpp:270
+msgid "Seat"
+msgstr ""
+
+#: ../src/proctable.cpp:271
+msgid "Owner"
+msgstr ""
+
+#: ../src/proctable.cpp:272 ../src/procproperties.cpp:143
+msgid "Priority"
+msgstr ""
+
+#: ../src/proctable.cpp:1096
+#, c-format
+msgid "Load averages for the last 1, 5, 15 minutes: %0.2f, %0.2f, %0.2f"
+msgstr "கடைசி 1, 5, 15 நிமிடங்களுக்கு சராசரிகளை ஏற்று: %0.2f, %0.2f, %0.2f"
+
+#: ../src/procproperties.cpp:104 ../src/util.cpp:420
+msgid "N/A"
+msgstr ""
+
+#: ../src/procproperties.cpp:140
+#, c-format
+msgid "%lld second"
+msgid_plural "%lld seconds"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../src/procproperties.cpp:258
+msgid "Process Properties"
+msgstr ""
+
+#: ../src/procproperties.cpp:278
+#, c-format
+msgid "Properties of process \"%s\" (PID %u):"
+msgstr ""
+
+#. Translators: The first string parameter is release version (codename),
+#. * the second one is the architecture, 32 or 64-bit
+#: ../src/sysinfo.cpp:78
+#, c-format
+msgid "Release %s %s"
+msgstr ""
+
+#. translators: This is the type of architecture, for example:
+#. * "64-bit" or "32-bit"
+#: ../src/sysinfo.cpp:115
+#, c-format
+msgid "%d-bit"
+msgstr ""
+
+#: ../src/sysinfo.cpp:780
+#, c-format
+msgid "Kernel %s"
+msgstr "உட்கரு %s"
+
+#: ../src/sysinfo.cpp:794
+#, c-format
+msgid "GDE2 %s"
+msgstr "க்னோம் %s"
+
+#. hardware section
+#: ../src/sysinfo.cpp:809
+msgid "Hardware"
+msgstr ""
+
+#: ../src/sysinfo.cpp:814
+msgid "Memory:"
+msgstr "நினைவகம்:"
+
+#: ../src/sysinfo.cpp:818
+msgid "Processor:"
+msgstr "நுண்செயலி:"
+
+#. disk space section
+#: ../src/sysinfo.cpp:826
+msgid "System Status"
+msgstr ""
+
+#: ../src/sysinfo.cpp:831
+msgid "Available disk space:"
+msgstr "இருப்பில் கிடைக்கக்கூடிய வட்டு இடைவெளி:"
+
+#: ../src/util.cpp:30
+msgid "Running"
+msgstr "செயற்படுகிரது"
+
+#: ../src/util.cpp:34
+msgid "Stopped"
+msgstr "நிறுத்தப்பட்டது"
+
+#: ../src/util.cpp:38
+msgid "Zombie"
+msgstr "Zombie"
+
+#: ../src/util.cpp:42
+msgid "Uninterruptible"
+msgstr "இடையூறுயில்லாத"
+
+#: ../src/util.cpp:46
+msgid "Sleeping"
+msgstr "தூங்குகிறது"
+
+#. xgettext: weeks, days
+#: ../src/util.cpp:101
+#, c-format
+msgid "%uw%ud"
+msgstr "%uw%ud"
+
+#. xgettext: days, hours (0 -> 23)
+#: ../src/util.cpp:105
+#, c-format
+msgid "%ud%02uh"
+msgstr "%ud%02uh"
+
+#. xgettext: hours (0 -> 23), minutes, seconds
+#: ../src/util.cpp:109
+#, c-format
+msgid "%u:%02u:%02u"
+msgstr "%u:%02u:%02u"
+
+#. xgettext: minutes, seconds, centiseconds
+#: ../src/util.cpp:112
+#, c-format
+msgid "%u:%02u.%02u"
+msgstr "%u:%02u.%02u"
+
+#: ../src/util.cpp:166
+#, c-format
+msgid "%.1f KiB"
+msgstr "%.1f KiB"
+
+#: ../src/util.cpp:167
+#, c-format
+msgid "%.1f MiB"
+msgstr "%.1f MiB"
+
+#: ../src/util.cpp:168
+#, c-format
+msgid "%.1f GiB"
+msgstr "%.1f GiB"
+
+#: ../src/util.cpp:169
+#, c-format
+msgid "%.1f TiB"
+msgstr ""
+
+#: ../src/util.cpp:170
+#, c-format
+msgid "%.3g kbit"
+msgstr ""
+
+#: ../src/util.cpp:171
+#, c-format
+msgid "%.3g Mbit"
+msgstr ""
+
+#: ../src/util.cpp:172
+#, c-format
+msgid "%.3g Gbit"
+msgstr ""
+
+#: ../src/util.cpp:173
+#, c-format
+msgid "%.3g Tbit"
+msgstr ""
+
+#: ../src/util.cpp:188
+#, c-format
+msgid "%u bit"
+msgid_plural "%u bits"
+msgstr[0] "%u பிட்"
+msgstr[1] "%u பிட்கள்"
+
+#: ../src/util.cpp:189
+#, c-format
+msgid "%u byte"
+msgid_plural "%u bytes"
+msgstr[0] "%u பைட்"
+msgstr[1] "%u பைட்கள்"
+
+#. xgettext: rate, 10MiB/s or 10Mbit/s
+#: ../src/util.cpp:583
+#, c-format
+msgid "%s/s"
+msgstr "%s/s"

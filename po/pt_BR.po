@@ -1,0 +1,1331 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# Afonso Celso Medina <medina@maua.br>, 2004
+# Aldo Oliveira <america103@gmail.com>, 2015
+# André Gondim <andregondim@ubuntu.com>, 2009
+# dnoway <dnoway@gmail.com>, 2008
+# Evandro Fernandes Giovanini <evandrofg@ig.com.br>, 2002, 2006
+# Francisco Petrúcio Cavalcante Junior <fpcj@impa.br>, 2002
+# Marcelo Ghelman <marcelo.ghelman@gmail.com>, 2015
+# Og Maciel <ogmaciel@ubuntu.com>, 2007, 2009
+# Raphael Higino <phhigino@gmail.com>, 2005
+# Thiago Lima Demétrio <thiago@omegasul.com.br>, 2008
+# Vinicius Pinheiro <vinnie.gp@gmail.com>, 2006
+# Vladimir Melo <vladimirmelo@foresightlinux.org>, 2007
+# Washington Lins <washington-lins@uol.com.br>, 2007
+msgid ""
+msgstr ""
+"Project-Id-Version: GDE2 Desktop Environment\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-12-19 01:20+0100\n"
+"PO-Revision-Date: 2015-02-23 08:09+0000\n"
+"Last-Translator: Marcelo Ghelman <marcelo.ghelman@gmail.com>\n"
+"Language-Team: Portuguese (Brazil) (http://www.transifex.com/gde2/GDE2/language/pt_BR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: ../gde2-system-monitor.appdata.xml.in.h:1
+msgid "A Process and resource monitor for GDE2 Desktop"
+msgstr "Um monitor de processo e recurso para desktop GDE2"
+
+#: ../gde2-system-monitor.appdata.xml.in.h:2
+msgid ""
+"<p> GDE2 System Monitor allows to graphically view and manipulate the "
+"running processes on your system. It also provides an overview of available "
+"resources, such as CPU and memory. </p> <p> GDE2 System Monitor is a fork of"
+" GNOME System Monitor and part of the GDE2 Desktop Environment. If you would"
+" like to know more about GDE2 and System Monitor, please visit the project's"
+" home page. </p>"
+msgstr "<p> GDE2 System Monitor permite visualizar graficamente e manipular os processos em execução no seu sistema. Ele também fornece uma visão geral dos recursos disponíveis, tais como CPU e memória. </p> <p> GDE2 System Monitor é um fork do GNOME GDE2 System Monitor e parte do ambiente desktop GDE2. Se quiser saber mais sobre GDE2 e o Monitor de Sistema, por favor, visite a página projeto. </p>"
+
+#: ../gde2-system-monitor.desktop.in.in.h:1
+msgid "GDE2 System Monitor"
+msgstr "Monitor do sistema GDE2"
+
+#: ../gde2-system-monitor.desktop.in.in.h:2 ../src/callbacks.cpp:186
+#: ../src/interface.cpp:690 ../src/procman.cpp:710
+msgid "System Monitor"
+msgstr "Monitor do sistema"
+
+#: ../gde2-system-monitor.desktop.in.in.h:3 ../src/callbacks.cpp:187
+msgid "View current processes and monitor system state"
+msgstr "Veja os processos atuais e monitore o estado do sistema"
+
+#: ../src/argv.cpp:21
+msgid "Show the System tab"
+msgstr "Exibir a aba sistema"
+
+#: ../src/argv.cpp:26
+msgid "Show the Processes tab"
+msgstr "Mostrar a guia Processos"
+
+#: ../src/argv.cpp:31
+msgid "Show the Resources tab"
+msgstr "Mostrar a guia Recursos"
+
+#: ../src/argv.cpp:36
+msgid "Show the File Systems tab"
+msgstr "Mostrar a guia Sistemas de Arquivos"
+
+#: ../src/callbacks.cpp:196
+msgid "translator-credits"
+msgstr "Francisco Petrúcio Cavalcante Junior <fpcj@impa.br>\nAldo Oliveira <america103@gmail.com>\nEvandro Fernandes Giovanini <evandrofg@ig.com.br>\nAfonso Celso Medina <medina@maua.br>\nRaphael Higino <In memoriam>\nVinicius Pinheiro <vinnie.gp@gmail.com>\nOg Maciel <ogmaciel@ubuntu.com>\nVladimir Melo <vladimirmelo@foresightlinux.org>\nHugo Doria <hugodoria@gmail.com>\nDjavan Fagundes <dnoway@gmail.com>\nAndré Gondim <andregondim@ubuntu.com>"
+
+#: ../src/disks.cpp:299 ../src/memmaps.cpp:361
+msgid "Device"
+msgstr "Dispositivo"
+
+#: ../src/disks.cpp:300
+msgid "Directory"
+msgstr "Diretório"
+
+#: ../src/disks.cpp:301 ../src/gsm_color_button.c:227 ../src/openfiles.cpp:251
+msgid "Type"
+msgstr "Tipo"
+
+#: ../src/disks.cpp:302
+msgid "Total"
+msgstr "Total"
+
+#: ../src/disks.cpp:303
+msgid "Free"
+msgstr "Livre"
+
+#: ../src/disks.cpp:304
+msgid "Available"
+msgstr "Disponível"
+
+#: ../src/disks.cpp:305
+msgid "Used"
+msgstr "Em uso"
+
+#. xgettext: ? stands for unknown
+#: ../src/e_date.c:155
+msgid "?"
+msgstr "?"
+
+#: ../src/e_date.c:162
+msgid "Today %l:%M %p"
+msgstr "Hoje %H:%M"
+
+#: ../src/e_date.c:171
+msgid "Yesterday %l:%M %p"
+msgstr "Ontem %H:%M"
+
+#: ../src/e_date.c:183
+msgid "%a %l:%M %p"
+msgstr "%a %H:%M"
+
+#: ../src/e_date.c:191
+msgid "%b %d %l:%M %p"
+msgstr "%d de %b %H:%M"
+
+#: ../src/e_date.c:193
+msgid "%b %d %Y"
+msgstr "%d de %b de %Y"
+
+#: ../src/gsm_color_button.c:203
+msgid "Fraction"
+msgstr "Fração"
+
+#. TRANSLATORS: description of the pie color picker's (mem, swap) filled
+#. percentage property
+#: ../src/gsm_color_button.c:205
+msgid "Percentage full for pie color pickers"
+msgstr "Porcentagem completa para os selecionadores de cor"
+
+#: ../src/gsm_color_button.c:212
+msgid "Title"
+msgstr "Título"
+
+#: ../src/gsm_color_button.c:213
+msgid "The title of the color selection dialog"
+msgstr "O título da janela de seleção de cor"
+
+#: ../src/gsm_color_button.c:214 ../src/gsm_color_button.c:639
+msgid "Pick a Color"
+msgstr "Selecione uma cor"
+
+#: ../src/gsm_color_button.c:220
+msgid "Current Color"
+msgstr "Cor atual"
+
+#: ../src/gsm_color_button.c:221
+msgid "The selected color"
+msgstr "A cor selecionada"
+
+#: ../src/gsm_color_button.c:228
+msgid "Type of color picker"
+msgstr "Tipo do selecionador de cor"
+
+#: ../src/gsm_color_button.c:562
+msgid "Received invalid color data\n"
+msgstr "Recebidos dados de cor inválidos\n"
+
+#: ../src/gsm_color_button.c:662
+msgid "Click to set graph colors"
+msgstr "Clique para definir as cores do gráfico"
+
+#. xgettext: noun, top level menu.
+#. "File" did not make sense for system-monitor
+#: ../src/interface.cpp:51
+msgid "_Monitor"
+msgstr "_Monitor"
+
+#: ../src/interface.cpp:52
+msgid "_Edit"
+msgstr "_Editar"
+
+#: ../src/interface.cpp:53
+msgid "_View"
+msgstr "_Ver"
+
+#: ../src/interface.cpp:54
+msgid "_Help"
+msgstr "Aj_uda"
+
+#: ../src/interface.cpp:56
+msgid "Search for _Open Files"
+msgstr "Pesquisar por _arquivos abertos"
+
+#: ../src/interface.cpp:57
+msgid "Search for open files"
+msgstr "Pesquisa por arquivos abertos"
+
+#: ../src/interface.cpp:59
+msgid "Quit the program"
+msgstr "Sai do programa"
+
+#: ../src/interface.cpp:62
+msgid "_Stop Process"
+msgstr "_Parar processo"
+
+#: ../src/interface.cpp:63
+msgid "Stop process"
+msgstr "Pára o processo"
+
+#: ../src/interface.cpp:64
+msgid "_Continue Process"
+msgstr "_Continuar processo"
+
+#: ../src/interface.cpp:65
+msgid "Continue process if stopped"
+msgstr "Continua o processo se estiver parado"
+
+#: ../src/interface.cpp:67 ../src/procdialogs.cpp:90
+msgid "_End Process"
+msgstr "_Terminar processo"
+
+#: ../src/interface.cpp:68
+msgid "Force process to finish normally"
+msgstr "Força o processo a finalizar normalmente"
+
+#: ../src/interface.cpp:69 ../src/procdialogs.cpp:79
+msgid "_Kill Process"
+msgstr "_Matar processo"
+
+#: ../src/interface.cpp:70
+msgid "Force process to finish immediately"
+msgstr "Força um processo a finalizar imediatamente"
+
+#: ../src/interface.cpp:71
+msgid "_Change Priority"
+msgstr "_Alterar prioridade"
+
+#: ../src/interface.cpp:72
+msgid "Change the order of priority of process"
+msgstr "Altera a ordem de prioridade de um processo"
+
+#: ../src/interface.cpp:74
+msgid "Configure the application"
+msgstr "Configura o aplicativo"
+
+#: ../src/interface.cpp:76
+msgid "_Refresh"
+msgstr "At_ualizar"
+
+#: ../src/interface.cpp:77
+msgid "Refresh the process list"
+msgstr "Atualiza a lista de processos"
+
+#: ../src/interface.cpp:79
+msgid "_Memory Maps"
+msgstr "Mapa_s de memória"
+
+#: ../src/interface.cpp:80
+msgid "Open the memory maps associated with a process"
+msgstr "Abre os mapas de memória associados a um processo"
+
+#. Translators: this means 'Files that are open' (open is no verb here
+#: ../src/interface.cpp:82
+msgid "Open _Files"
+msgstr "_Arquivos abertos"
+
+#: ../src/interface.cpp:83
+msgid "View the files opened by a process"
+msgstr "Visualiza os arquivos abertos por um processo"
+
+#: ../src/interface.cpp:84
+msgid "_Properties"
+msgstr "_Propriedades"
+
+#: ../src/interface.cpp:85
+msgid "View additional information about a process"
+msgstr "Veja informações adicionais sobre um processo"
+
+#: ../src/interface.cpp:88
+msgid "_Contents"
+msgstr "S_umário"
+
+#: ../src/interface.cpp:89
+msgid "Open the manual"
+msgstr "Abre o manual"
+
+#: ../src/interface.cpp:91
+msgid "About this application"
+msgstr "Sobre este aplicativo"
+
+#: ../src/interface.cpp:96
+msgid "_Dependencies"
+msgstr "_Dependências"
+
+#: ../src/interface.cpp:97
+msgid "Show parent/child relationship between processes"
+msgstr "Mostra o relacionamento pai/filho entre processos"
+
+#: ../src/interface.cpp:104
+msgid "_Active Processes"
+msgstr "_Processos ativos"
+
+#: ../src/interface.cpp:105
+msgid "Show active processes"
+msgstr "Mostra os processos ativos"
+
+#: ../src/interface.cpp:106
+msgid "A_ll Processes"
+msgstr "_Todos os processos"
+
+#: ../src/interface.cpp:107
+msgid "Show all processes"
+msgstr "Mostra todos os processos"
+
+#: ../src/interface.cpp:108
+msgid "M_y Processes"
+msgstr "_Meus processos"
+
+#: ../src/interface.cpp:109
+msgid "Show only user-owned processes"
+msgstr "Mostrar apenas os processos do usuário"
+
+#: ../src/interface.cpp:114 ../src/util.cpp:217
+msgid "Very High"
+msgstr "Muito Alto"
+
+#: ../src/interface.cpp:115
+msgid "Set process priority to very high"
+msgstr "Definir prioridade do processo para muito alto"
+
+#: ../src/interface.cpp:116 ../src/util.cpp:219
+msgid "High"
+msgstr "Alto"
+
+#: ../src/interface.cpp:117
+msgid "Set process priority to high"
+msgstr "Definir prioridade do processo para alto"
+
+#: ../src/interface.cpp:118 ../src/util.cpp:221
+msgid "Normal"
+msgstr "Normal"
+
+#: ../src/interface.cpp:119
+msgid "Set process priority to normal"
+msgstr "Definir prioridade do processo como normal"
+
+#: ../src/interface.cpp:120 ../src/util.cpp:223
+msgid "Low"
+msgstr "Baixo"
+
+#: ../src/interface.cpp:121
+msgid "Set process priority to low"
+msgstr "Definir prioridade do processo para baixo"
+
+#: ../src/interface.cpp:122 ../src/util.cpp:225
+msgid "Very Low"
+msgstr "Muito baixo"
+
+#: ../src/interface.cpp:123
+msgid "Set process priority to very low"
+msgstr "Definir prioridade processo como muito baixo"
+
+#: ../src/interface.cpp:124
+msgid "Custom"
+msgstr "Personalizado"
+
+#: ../src/interface.cpp:125
+msgid "Set process priority manually"
+msgstr "Definir prioridade do processo manualmente"
+
+#: ../src/interface.cpp:231
+msgid "End _Process"
+msgstr "_Terminar processo"
+
+#. Translators: color picker title, %s is CPU, Memory, Swap, Receiving,
+#. Sending
+#: ../src/interface.cpp:279
+#, c-format
+msgid "Pick a Color for '%s'"
+msgstr "Selecione uma cor para '%s'"
+
+#: ../src/interface.cpp:290
+msgid "CPU History"
+msgstr "Histórico da CPU"
+
+#: ../src/interface.cpp:344 ../src/procproperties.cpp:139
+msgid "CPU"
+msgstr "CPU"
+
+#: ../src/interface.cpp:346
+#, c-format
+msgid "CPU%d"
+msgstr "CPU%d"
+
+#: ../src/interface.cpp:367
+msgid "Memory and Swap History"
+msgstr "Histórico da memória e swap"
+
+#: ../src/interface.cpp:401 ../src/proctable.cpp:262
+#: ../src/procproperties.cpp:133
+msgid "Memory"
+msgstr "Memória"
+
+#: ../src/interface.cpp:432
+msgid "Swap"
+msgstr "Swap"
+
+#: ../src/interface.cpp:463
+msgid "Network History"
+msgstr "Histórico da rede"
+
+#: ../src/interface.cpp:496
+msgid "Receiving"
+msgstr "Recebidos"
+
+#: ../src/interface.cpp:529
+msgid "Total Received"
+msgstr "Total recebidos"
+
+#: ../src/interface.cpp:557
+msgid "Sending"
+msgstr "Enviados"
+
+#: ../src/interface.cpp:591
+msgid "Total Sent"
+msgstr "Total enviado"
+
+#. procman_create_sysinfo_view();
+#: ../src/interface.cpp:777
+msgid "System"
+msgstr "Sistema"
+
+#: ../src/interface.cpp:781 ../src/procdialogs.cpp:549
+msgid "Processes"
+msgstr "Processos"
+
+#: ../src/interface.cpp:785 ../src/procdialogs.cpp:662
+msgid "Resources"
+msgstr "Recursos"
+
+#: ../src/interface.cpp:789 ../src/procdialogs.cpp:727
+#: ../src/procdialogs.cpp:731
+msgid "File Systems"
+msgstr "Sistemas de arquivos"
+
+#: ../src/load-graph.cpp:170
+#, c-format
+msgid "%u second"
+msgid_plural "%u seconds"
+msgstr[0] "%u segundo"
+msgstr[1] "%u segundos"
+
+#: ../src/load-graph.cpp:351
+msgid "not available"
+msgstr "não disponível"
+
+#. xgettext: 540MiB (53 %) of 1.0 GiB
+#: ../src/load-graph.cpp:354
+#, c-format
+msgid "%s (%.1f%%) of %s"
+msgstr "%s (%.1f%%) de %s"
+
+#: ../src/lsof.cpp:126
+msgid "Error"
+msgstr "Erro"
+
+#: ../src/lsof.cpp:127
+#, c-format
+msgid "'%s' is not a valid Perl regular expression."
+msgstr "'%s' não é uma expressão regular Perl válida."
+
+#: ../src/lsof.cpp:273
+msgid "Process"
+msgstr "Processo"
+
+#: ../src/lsof.cpp:285
+msgid "PID"
+msgstr "PID"
+
+#: ../src/lsof.cpp:295 ../src/memmaps.cpp:339
+msgid "Filename"
+msgstr "Nome do arquivo"
+
+#. gtk_window_set_modal(GTK_WINDOW(dialog), TRUE);
+#: ../src/lsof.cpp:312
+msgid "Search for Open Files"
+msgstr "Pesquisar por arquivos abertos"
+
+#: ../src/lsof.cpp:339
+msgid "_Name contains:"
+msgstr "_Nome contém:"
+
+#. The default accelerator collides with the default close accelerator.
+#: ../src/lsof.cpp:353
+msgid "C_lear"
+msgstr "_Limpar"
+
+#: ../src/lsof.cpp:357
+msgid "Case insensitive matching"
+msgstr "Não diferenciar maiúsculas de minúsculas"
+
+#: ../src/lsof.cpp:365
+msgid "S_earch results:"
+msgstr "R_esultados da busca:"
+
+#. xgettext: virtual memory start
+#: ../src/memmaps.cpp:341
+msgid "VM Start"
+msgstr "Início da VM"
+
+#. xgettext: virtual memory end
+#: ../src/memmaps.cpp:343
+msgid "VM End"
+msgstr "Fim da VM"
+
+#. xgettext: virtual memory syze
+#: ../src/memmaps.cpp:345
+msgid "VM Size"
+msgstr "Tamanho da VM"
+
+#: ../src/memmaps.cpp:346
+msgid "Flags"
+msgstr "Flags"
+
+#. xgettext: virtual memory offset
+#: ../src/memmaps.cpp:348
+msgid "VM Offset"
+msgstr "Deslocamento da VM"
+
+#. xgettext: memory that has not been modified since
+#. it has been allocated
+#: ../src/memmaps.cpp:351
+msgid "Private clean"
+msgstr "Limpa e reservada"
+
+#. xgettext: memory that has been modified since it
+#. has been allocated
+#: ../src/memmaps.cpp:354
+msgid "Private dirty"
+msgstr "Suja e reservada"
+
+#. xgettext: shared memory that has not been modified
+#. since it has been allocated
+#: ../src/memmaps.cpp:357
+msgid "Shared clean"
+msgstr "Limpa e compartilhada"
+
+#. xgettext: shared memory that has been modified
+#. since it has been allocated
+#: ../src/memmaps.cpp:360
+msgid "Shared dirty"
+msgstr "Suja e compartilhada"
+
+#: ../src/memmaps.cpp:362
+msgid "Inode"
+msgstr "Inode"
+
+#: ../src/memmaps.cpp:467
+msgid "Memory Maps"
+msgstr "Mapas de memória"
+
+#: ../src/memmaps.cpp:479
+#, c-format
+msgid "_Memory maps for process \"%s\" (PID %u):"
+msgstr "_Mapas de memória para o processo \"%s\" (PID %u):"
+
+#: ../src/openfiles.cpp:38
+msgid "file"
+msgstr "arquivo"
+
+#: ../src/openfiles.cpp:40
+msgid "pipe"
+msgstr "pipe"
+
+#: ../src/openfiles.cpp:42
+msgid "IPv6 network connection"
+msgstr "Conexão de rede IPv6"
+
+#: ../src/openfiles.cpp:44
+msgid "IPv4 network connection"
+msgstr "Conexão de rede IPv4"
+
+#: ../src/openfiles.cpp:46
+msgid "local socket"
+msgstr "socket local"
+
+#: ../src/openfiles.cpp:48
+msgid "unknown type"
+msgstr "tipo desconhecido"
+
+#. Translators: "FD" here means "File Descriptor". Please use
+#. a very short translation if possible, and at most
+#. 2-3 characters for it to be able to fit in the UI.
+#: ../src/openfiles.cpp:250
+msgid "FD"
+msgstr "FD"
+
+#: ../src/openfiles.cpp:252
+msgid "Object"
+msgstr "Objeto"
+
+#: ../src/openfiles.cpp:337
+msgid "Open Files"
+msgstr "Arquivos abertos"
+
+#: ../src/openfiles.cpp:358
+#, c-format
+msgid "_Files opened by process \"%s\" (PID %u):"
+msgstr "_Arquivos abertos pelo processo \"%s\" (PID %u):"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:1
+msgid "Main window size and position in the form (width, height, xpos, ypos)"
+msgstr "Tamanho da janela principal e posição na forma (largura, altura, xpos, ypos)"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:2
+msgid "Show process dependencies in tree form"
+msgstr "Mostrar as dependências do processo na forma de árvore"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:3
+msgid "Solaris mode for CPU percentage"
+msgstr "Modo Solaris para porcentagem de CPU"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:4
+msgid ""
+"If TRUE, system-monitor operates in 'Solaris mode' where a task's CPU usage "
+"is divided by the total number of CPUs. Otherwise, it operates in 'Irix "
+"mode'."
+msgstr "Se VERDADEIRO, o system-monitor operará no \"modo Solaris\", onde o uso da cpu pela tarefa é dividido pelo número total de CPUs. Caso contrário, operará no \"modo Irix\"."
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:5
+msgid "Enable/Disable smooth refresh"
+msgstr "Habilitar/Desabilitar atualização suave"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:6
+msgid "Show warning dialog when killing processes"
+msgstr "Mostrar diálogo de aviso ao matar processos"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:7
+msgid "Time in milliseconds between updates of the process view"
+msgstr "Tempo em milissegundos entre atualizações da visão de processos"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:8
+msgid "Time in milliseconds between updates of the graphs"
+msgstr "Tempo em milissegundos entre atualizações dos gráficos"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:9
+msgid "Whether information about all file systems should be displayed"
+msgstr "Que informações sobre todos os sistemas de arquivos devem ser exibidas"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:10
+msgid ""
+"Whether to display information about all file systems (including types like "
+"'autofs' and 'procfs'). Useful for getting a list of all currently mounted "
+"file systems."
+msgstr "Que informações sobre todos os sistemas de arquivos devem ser exibidas (incluindo tipos como \"autofs\" e \"procfs\"). Isso pode ser útil para obter uma lista de todos os sistemas de arquivos montados no momento."
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:11
+msgid "Time in milliseconds between updates of the devices list"
+msgstr "Tempo em milissegundos entre atualizações da lista de dispositivos"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:12
+msgid ""
+"Determines which processes to show by default. 0 is All, 1 is user, and 2 is"
+" active"
+msgstr "Determina quais processos mostrar por padrão. 0 = todos, 1 = usuário e 2 = ativos"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:13
+msgid "Saves the currently viewed tab"
+msgstr "Salva a aba exibida atualmente"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:14
+msgid ""
+"0 for the System Info, 1 for the processes list, 2 for the resources and 3 "
+"for the disks list"
+msgstr "0 para a Informação do Sistema, 1 para a lista de processos, 2 para os recursos, e 3 para a lista de discos"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:15
+msgid "Default graph CPU color"
+msgstr "Cor padrão da CPU no gráfico"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:16
+msgid "Default graph cpu color"
+msgstr "Cor padrão da CPU no gráfico"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:17
+msgid "Default graph memory color"
+msgstr "Cor padrão da memória no gráfico"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:18
+msgid "Default graph swap color"
+msgstr "Cor padrão da swap no gráfico"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:19
+msgid "Default graph incoming network traffic color"
+msgstr "Cor padrão do gráfico de tráfego de entrada de rede"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:20
+msgid "Default graph outgoing network traffic color"
+msgstr "Cor padrão do gráfico de tráfego de saída de rede"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:21
+msgid "Show network traffic in bits"
+msgstr "Mostrar tráfego da rede em bits"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:22
+msgid "Process view sort column"
+msgstr "Coluna de ordenação da visão de processos"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:23
+msgid "Process view columns order"
+msgstr "Ordem das colunas na visão de processos"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:24
+msgid "Process view sort order"
+msgstr "Ordenação da visão de processos"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:25
+msgid "Width of process 'name' column"
+msgstr "Largura da coluna \"nome do processo\""
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:26
+msgid "Show process 'name' column on startup"
+msgstr "Mostrar a coluna \"nome do processo\" ao inicializar"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:27
+msgid "Width of process 'owner' column"
+msgstr "Largura da coluna \"proprietário\" do processo"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:28
+msgid "Show process 'owner' column on startup"
+msgstr "Mostrar a coluna \"proprietário\" do processo ao inicializar"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:29
+msgid "Width of process 'status' column"
+msgstr "Largura da coluna \"status\" do processo"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:30
+msgid "Show process 'status' column on startup"
+msgstr "Mostrar a coluna \"status\" do processo ao inicializar"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:31
+msgid "Width of process 'virtual memory' column"
+msgstr "Largura da coluna \"memória virtual\" do processo"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:32
+msgid "Show process 'virtual memory' column on startup"
+msgstr "Mostrar a coluna \"memória virtual\" do processo ao inicializar"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:33
+msgid "Width of process 'resident memory' column"
+msgstr "Largura da coluna \"memória residente\" do processo"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:34
+msgid "Show process 'resident memory' column on startup"
+msgstr "Mostrar a coluna \"memória residente\" do processo ao inicializar"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:35
+msgid "Width of process 'writable memory' column"
+msgstr "Largura da coluna \"memória gravável\" do processo"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:36
+msgid "Show process 'writable memory' column on startup"
+msgstr "Mostrar a coluna \"memória gravável\" do processo ao inicializar"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:37
+msgid "Width of process 'shared memory' column"
+msgstr "Largura da coluna \"memória compartilhada\" do processo"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:38
+msgid "Show process 'shared memory' column on startup"
+msgstr "Mostrar a coluna \"memória compartilhada\" do processo ao inicializar"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:39
+msgid "Width of process 'X server memory' column"
+msgstr "Largura da coluna \"memória do servidor X\" do processo"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:40
+msgid "Show process 'X server memory' column on startup"
+msgstr "Mostrar a coluna \"memória do servidor X\" do processo ao inicializar"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:42
+#, no-c-format
+msgid "Width of process 'CPU %' column"
+msgstr "Largura da coluna \"% CPU\" do processo"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:44
+#, no-c-format
+msgid "Show process 'CPU %' column on startup"
+msgstr "Mostrar a coluna \"% CPU\" do processo ao inicializar"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:45
+msgid "Width of process 'CPU time' column"
+msgstr "Largura da coluna \"tempo da CPU\" do processo"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:46
+msgid "Show process 'CPU time' column on startup"
+msgstr "Mostrar a coluna \"tempo da CPU\" do processo ao inicializar"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:47
+msgid "Width of process 'start time' column"
+msgstr "Largura da coluna \"tempo de início\" do processo"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:48
+msgid "Show process 'start time' column on startup"
+msgstr "Mostrar a coluna \"tempo de início\" do processo ao inicializar"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:49
+msgid "Width of process 'nice' column"
+msgstr "Largura da coluna \"nice\" do processo"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:50
+msgid "Show process 'nice' column on startup"
+msgstr "Mostrar a coluna \"nice\" do processo ao inicializar"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:51
+msgid "Width of process 'PID' column"
+msgstr "Largura da coluna \"PID\" do processo"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:52
+msgid "Show process 'PID' column on startup"
+msgstr "Mostrar a coluna \"PID\" do processo ao inicializar"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:53
+msgid "Width of process 'SELinux security context' column"
+msgstr "Largura da coluna \"contexto de segurança SELinux\" do processo"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:54
+msgid "Show process 'SELinux security context' column on startup"
+msgstr "Mostrar a coluna \"contexto de segurança SELinux\" do processo ao inicializar"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:55
+msgid "Width of process 'arguments' column"
+msgstr "Largura da coluna \"argumentos\" do processo"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:56
+msgid "Show process 'arguments' column on startup"
+msgstr "Mostrar a coluna \"argumentos\" do processo ao inicializar"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:57
+msgid "Width of process 'estigde2d memory usage' column"
+msgstr "Largura da coluna \"uso estimado da memória\" do processo"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:58
+msgid "Show process 'estigde2d memory usage' column on startup"
+msgstr "Mostrar a coluna \"uso estimado da memória\" do processo ao inicializar"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:59
+msgid "Width of process 'Waiting Channel' column"
+msgstr "Largura da coluna \"Aguardando canal\""
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:60
+msgid "Show process 'Waiting Channel' column on startup"
+msgstr "Mostrar a coluna \"Aguardando canal\" ao inicializar"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:61
+msgid "Width of process 'Control Group' column"
+msgstr "Largura da coluna 'Grupo de Controle' do processo"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:62
+msgid "Show process 'Control Group' column on startup"
+msgstr "Mostrar coluna \"Grupo de Controle\" do processo ao inicializar"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:63
+msgid "Width of process 'Unit' column"
+msgstr "Largura da coluna 'Unidade' do processo"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:64
+msgid "Show process 'Unit' column on startup"
+msgstr "Mostrar coluna 'Unidade' do processo ao inicializar"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:65
+msgid "Width of process 'Session' column"
+msgstr "Largura da coluna \"Sessão\" do processo"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:66
+msgid "Show process 'Session' column on startup"
+msgstr "Mostrar a coluna \"Sessão\" do processo ao inicializar"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:67
+msgid "Width of process 'Seat' column"
+msgstr "Largura da coluna \"Banco\" do processo"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:68
+msgid "Show process 'Seat' column on startup"
+msgstr "Mostrar a coluna \"Banco\" do processo ao inicializar"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:69
+msgid "Width of process 'Owner' column"
+msgstr "Largura da coluna \"Proprietário\" do processo"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:70
+msgid "Show process 'Owner' column on startup"
+msgstr "Mostrar a coluna \"Proprietário\" do processo ao inicializar"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:71
+msgid "Width of process 'Priority' column"
+msgstr "Largura da coluna 'Prioridade' do processo"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:72
+msgid "Show process 'Priority' column on startup"
+msgstr "Mostrar coluna 'Prioridade' do processo ao inicializar"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:73
+msgid "Disk view sort colum"
+msgstr "Ordenar coluna de visualização de disco"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:74
+msgid "Disk view sort order"
+msgstr "Ordem de classificação de visualização de disco"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:75
+msgid "Disk view columns order"
+msgstr "Ordem das colunas de discos"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:76
+msgid "Memory map sort column"
+msgstr "Ordenar coluna de mapa de memória"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:77
+msgid "Memory map sort order"
+msgstr "Ordem de classificação de mapa de memória"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:78
+msgid "Open files sort column"
+msgstr "Ordenar coluna de arquivos abertos"
+
+#: ../src/org.gde2.system-monitor.gschema.xml.in.in.h:79
+msgid "Open files sort order"
+msgstr "Ordem de classificação de arquivos abertos"
+
+#: ../src/procactions.cpp:76
+#, c-format
+msgid ""
+"Cannot change the priority of process with PID %d to %d.\n"
+"%s"
+msgstr "Não foi possível mudar a prioridade do processo com PID %d para %d.\n%s"
+
+#: ../src/procactions.cpp:156
+#, c-format
+msgid ""
+"Cannot kill process with PID %d with signal %d.\n"
+"%s"
+msgstr "Não foi possível matar o processo com PID %d usando sinal %d.\n%s"
+
+#. xgettext: primary alert message
+#: ../src/procdialogs.cpp:72
+#, c-format
+msgid "Kill the selected process »%s« (PID: %u)?"
+msgstr "Matar o processo selecionado »%s« (PID: %u)?"
+
+#. xgettext: secondary alert message
+#: ../src/procdialogs.cpp:76
+msgid ""
+"Killing a process may destroy data, break the session or introduce a "
+"security risk. Only unresponsive processes should be killed."
+msgstr "Matar um processo pode destruir dados, interromper a sessão ou introduzir um risco de segurança. Somente processos sem resposta devem ser matados."
+
+#. xgettext: primary alert message
+#: ../src/procdialogs.cpp:83
+#, c-format
+msgid "End the selected process »%s« (PID: %u)?"
+msgstr "Finalizar o processo selecionado »%s« (PID: %u)?"
+
+#. xgettext: secondary alert message
+#: ../src/procdialogs.cpp:87
+msgid ""
+"Ending a process may destroy data, break the session or introduce a security"
+" risk. Only unresponsive processes should be ended."
+msgstr "Finalizar um processo pode destruir dados, interromper a sessão ou introduzir um risco de segurança. Somente processos sem resposta devem ser finalizados."
+
+#: ../src/procdialogs.cpp:125 ../src/procdialogs.cpp:223
+#, c-format
+msgid "(%s Priority)"
+msgstr "(%s Prioridade)"
+
+#: ../src/procdialogs.cpp:173
+#, c-format
+msgid "Change Priority of Process »%s« (PID: %u)"
+msgstr "Alterar prioridade do Processo »%s« (PID: %u)"
+
+#: ../src/procdialogs.cpp:185
+msgid "Change _Priority"
+msgstr "Alterar _prioridade"
+
+#: ../src/procdialogs.cpp:208
+msgid "_Nice value:"
+msgstr "Valor _nice:"
+
+#: ../src/procdialogs.cpp:229
+msgid "Note:"
+msgstr "Nota:"
+
+#: ../src/procdialogs.cpp:230
+msgid ""
+"The priority of a process is given by its nice value. A lower nice value "
+"corresponds to a higher priority."
+msgstr "A prioridade de um processo é dada pelo seu valor nice. Quanto menor o valor nice, maior a prioridade."
+
+#: ../src/procdialogs.cpp:467
+msgid "Icon"
+msgstr "Ícone"
+
+#: ../src/procdialogs.cpp:526
+msgid "System Monitor Preferences"
+msgstr "Preferências do monitor do sistema"
+
+#: ../src/procdialogs.cpp:556
+msgid "Behavior"
+msgstr "Comportamento"
+
+#: ../src/procdialogs.cpp:575 ../src/procdialogs.cpp:688
+#: ../src/procdialogs.cpp:750
+msgid "_Update interval in seconds:"
+msgstr "Intervalo de at_ualização em segundos:"
+
+#: ../src/procdialogs.cpp:600
+msgid "Enable _smooth refresh"
+msgstr "Habilitar atualização _suave"
+
+#: ../src/procdialogs.cpp:613
+msgid "Alert before ending or _killing processes"
+msgstr "Alertar antes de terminar ou _matar processos"
+
+#: ../src/procdialogs.cpp:626
+msgid "Divide CPU usage by CPU count"
+msgstr "Dividir uso da CPU por contagem de CPU"
+
+#: ../src/procdialogs.cpp:627
+msgid "Solaris mode"
+msgstr "Modo Solaris"
+
+#: ../src/procdialogs.cpp:644 ../src/procdialogs.cpp:784
+msgid "Information Fields"
+msgstr "Campos de informação"
+
+#: ../src/procdialogs.cpp:657
+msgid "Process i_nformation shown in list:"
+msgstr "I_nformações dos processos exibidas na lista:"
+
+#: ../src/procdialogs.cpp:669
+msgid "Graphs"
+msgstr "Gráficos"
+
+#: ../src/procdialogs.cpp:708
+msgid "Show network speed in bits"
+msgstr "Mostrar velocidade da rede em bits"
+
+#: ../src/procdialogs.cpp:770
+msgid "Show _all file systems"
+msgstr "Mostr_ar todos os sistemas de arquivos"
+
+#: ../src/procdialogs.cpp:797
+msgid "File system i_nformation shown in list:"
+msgstr "I_nformações do sistema de arquivos exibidas na lista:"
+
+#: ../src/procman.cpp:659
+msgid "A simple process and system monitor."
+msgstr "Um simples monitor de processos do sistema."
+
+#: ../src/proctable.cpp:247 ../src/procproperties.cpp:130
+msgid "Process Name"
+msgstr "Nome do processo"
+
+#: ../src/proctable.cpp:248 ../src/procproperties.cpp:131
+msgid "User"
+msgstr "Usuário"
+
+#: ../src/proctable.cpp:249 ../src/procproperties.cpp:132
+msgid "Status"
+msgstr "Estado"
+
+#: ../src/proctable.cpp:250 ../src/procproperties.cpp:134
+msgid "Virtual Memory"
+msgstr "Memória virtual"
+
+#: ../src/proctable.cpp:251 ../src/procproperties.cpp:135
+msgid "Resident Memory"
+msgstr "Memória residente"
+
+#: ../src/proctable.cpp:252 ../src/procproperties.cpp:136
+msgid "Writable Memory"
+msgstr "Memória gravável"
+
+#: ../src/proctable.cpp:253 ../src/procproperties.cpp:137
+msgid "Shared Memory"
+msgstr "Memória compartilhada"
+
+#: ../src/proctable.cpp:254 ../src/procproperties.cpp:138
+msgid "X Server Memory"
+msgstr "Memória do Servidor X"
+
+#: ../src/proctable.cpp:255
+#, no-c-format
+msgid "% CPU"
+msgstr "% CPU"
+
+#: ../src/proctable.cpp:256 ../src/procproperties.cpp:140
+msgid "CPU Time"
+msgstr "Tempo da CPU"
+
+#: ../src/proctable.cpp:257 ../src/procproperties.cpp:141
+msgid "Started"
+msgstr "Iniciada"
+
+#: ../src/proctable.cpp:258 ../src/procproperties.cpp:142
+msgid "Nice"
+msgstr "Nice"
+
+#: ../src/proctable.cpp:259 ../src/procproperties.cpp:144
+msgid "ID"
+msgstr "ID"
+
+#: ../src/proctable.cpp:260 ../src/procproperties.cpp:145
+msgid "Security Context"
+msgstr "Contexto de segurança"
+
+#: ../src/proctable.cpp:261 ../src/procproperties.cpp:146
+msgid "Command Line"
+msgstr "Linha de comando"
+
+#. xgettext: combined noun, the function the process is waiting in, see wchan
+#. ps(1)
+#: ../src/proctable.cpp:264 ../src/procproperties.cpp:147
+msgid "Waiting Channel"
+msgstr "Aguardando canal"
+
+#: ../src/proctable.cpp:265
+msgid "Control Group"
+msgstr "Grupo de Controle"
+
+#: ../src/proctable.cpp:266
+msgid "Unit"
+msgstr "Unidade"
+
+#: ../src/proctable.cpp:267
+msgid "Session"
+msgstr "Sessão"
+
+#. TRANSLATORS: Seat = i.e. the physical seat the session of the process
+#. belongs to, only
+#. for multi-seat environments. See
+#. http://en.wikipedia.org/wiki/Multiseat_configuration
+#: ../src/proctable.cpp:270
+msgid "Seat"
+msgstr "Terminal"
+
+#: ../src/proctable.cpp:271
+msgid "Owner"
+msgstr "Proprietário"
+
+#: ../src/proctable.cpp:272 ../src/procproperties.cpp:143
+msgid "Priority"
+msgstr "Prioridade"
+
+#: ../src/proctable.cpp:1096
+#, c-format
+msgid "Load averages for the last 1, 5, 15 minutes: %0.2f, %0.2f, %0.2f"
+msgstr "Cargas médias para os últimos 1, 5, 15 minutos: %0.2f, %0.2f, %0.2f"
+
+#: ../src/procproperties.cpp:104 ../src/util.cpp:420
+msgid "N/A"
+msgstr "N/D"
+
+#: ../src/procproperties.cpp:140
+#, c-format
+msgid "%lld second"
+msgid_plural "%lld seconds"
+msgstr[0] "%lld segundo"
+msgstr[1] "%lld segundos"
+
+#: ../src/procproperties.cpp:258
+msgid "Process Properties"
+msgstr "Propriedades do processo"
+
+#: ../src/procproperties.cpp:278
+#, c-format
+msgid "Properties of process \"%s\" (PID %u):"
+msgstr "Propriedades do processo \"%s\" (PID %u):"
+
+#. Translators: The first string parameter is release version (codename),
+#. * the second one is the architecture, 32 or 64-bit
+#: ../src/sysinfo.cpp:78
+#, c-format
+msgid "Release %s %s"
+msgstr "Lançamento %s %s"
+
+#. translators: This is the type of architecture, for example:
+#. * "64-bit" or "32-bit"
+#: ../src/sysinfo.cpp:115
+#, c-format
+msgid "%d-bit"
+msgstr "%d-bit"
+
+#: ../src/sysinfo.cpp:780
+#, c-format
+msgid "Kernel %s"
+msgstr "Kernel %s"
+
+#: ../src/sysinfo.cpp:794
+#, c-format
+msgid "GDE2 %s"
+msgstr "GDE2 %s"
+
+#. hardware section
+#: ../src/sysinfo.cpp:809
+msgid "Hardware"
+msgstr "Hardware"
+
+#: ../src/sysinfo.cpp:814
+msgid "Memory:"
+msgstr "Memória:"
+
+#: ../src/sysinfo.cpp:818
+msgid "Processor:"
+msgstr "Processador:"
+
+#. disk space section
+#: ../src/sysinfo.cpp:826
+msgid "System Status"
+msgstr "Status do sistema"
+
+#: ../src/sysinfo.cpp:831
+msgid "Available disk space:"
+msgstr "Espaço disponível no disco:"
+
+#: ../src/util.cpp:30
+msgid "Running"
+msgstr "Executando"
+
+#: ../src/util.cpp:34
+msgid "Stopped"
+msgstr "Parado"
+
+#: ../src/util.cpp:38
+msgid "Zombie"
+msgstr "Zumbi"
+
+#: ../src/util.cpp:42
+msgid "Uninterruptible"
+msgstr "Ininterrompível"
+
+#: ../src/util.cpp:46
+msgid "Sleeping"
+msgstr "Dormindo"
+
+#. xgettext: weeks, days
+#: ../src/util.cpp:101
+#, c-format
+msgid "%uw%ud"
+msgstr "%uw%ud"
+
+#. xgettext: days, hours (0 -> 23)
+#: ../src/util.cpp:105
+#, c-format
+msgid "%ud%02uh"
+msgstr "%ud%02uh"
+
+#. xgettext: hours (0 -> 23), minutes, seconds
+#: ../src/util.cpp:109
+#, c-format
+msgid "%u:%02u:%02u"
+msgstr "%u:%02u:%02u"
+
+#. xgettext: minutes, seconds, centiseconds
+#: ../src/util.cpp:112
+#, c-format
+msgid "%u:%02u.%02u"
+msgstr "%u:%02u.%02u"
+
+#: ../src/util.cpp:166
+#, c-format
+msgid "%.1f KiB"
+msgstr "%.1f KiB"
+
+#: ../src/util.cpp:167
+#, c-format
+msgid "%.1f MiB"
+msgstr "%.1f MiB"
+
+#: ../src/util.cpp:168
+#, c-format
+msgid "%.1f GiB"
+msgstr "%.1f GiB"
+
+#: ../src/util.cpp:169
+#, c-format
+msgid "%.1f TiB"
+msgstr "%.1f TiB"
+
+#: ../src/util.cpp:170
+#, c-format
+msgid "%.3g kbit"
+msgstr "%.3g kbit"
+
+#: ../src/util.cpp:171
+#, c-format
+msgid "%.3g Mbit"
+msgstr "%.3g Mbit"
+
+#: ../src/util.cpp:172
+#, c-format
+msgid "%.3g Gbit"
+msgstr "%.3g Gbit"
+
+#: ../src/util.cpp:173
+#, c-format
+msgid "%.3g Tbit"
+msgstr "%.3g Tbit"
+
+#: ../src/util.cpp:188
+#, c-format
+msgid "%u bit"
+msgid_plural "%u bits"
+msgstr[0] "%u bit"
+msgstr[1] "%u bits"
+
+#: ../src/util.cpp:189
+#, c-format
+msgid "%u byte"
+msgid_plural "%u bytes"
+msgstr[0] "%u byte"
+msgstr[1] "%u bytes"
+
+#. xgettext: rate, 10MiB/s or 10Mbit/s
+#: ../src/util.cpp:583
+#, c-format
+msgid "%s/s"
+msgstr "%s/s"
