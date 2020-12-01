@@ -2,7 +2,7 @@
 <schemalist>
   <schema gettext-domain="@GETTEXT_PACKAGE@" id="org.gde2.system-monitor" path="/org/gde2/system-monitor/">
     <key name="window-state" type="(iiii)">
-      <default>(700, 500, 50, 50)</default>
+      <default>(800, 600, 50, 50)</default>
       <summary>Main window size and position in the form (width, height, xpos, ypos)</summary>
     </key>
     <key name="show-tree" type="b">
@@ -27,7 +27,7 @@
       <summary>Time in milliseconds between updates of the process view</summary>
     </key>
     <key name="graph-update-interval" type="i">
-      <default>1000</default>
+      <default>4000</default>
       <summary>Time in milliseconds between updates of the graphs</summary>
     </key>
     <key name="show-all-fs" type="b">
@@ -36,7 +36,7 @@
       <description>Whether to display information about all file systems (including types like 'autofs' and 'procfs'). Useful for getting a list of all currently mounted file systems.</description>
     </key>
     <key name="disks-interval" type="i">
-      <default>5000</default>
+      <default>9000</default>
       <summary>Time in milliseconds between updates of the devices list</summary>
     </key>
     <key name="view-as" type="i">
