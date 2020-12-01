@@ -188,7 +188,8 @@ cb_about (GtkAction *action, gpointer data)
         "version",            VERSION,
         "copyright",          "Copyright \xc2\xa9 2001-2004 Kevin Vandersloot\n"
                               "Copyright \xc2\xa9 2005-2007 Benoît Dejean\n"
-                              "Copyright \xc2\xa9 2011-2014 GDE2 developers",
+                              "Copyright \xc2\xa9 2011-2014 MATE developers\n"
+                              "Copyright \xc2\xa9 2020 GDE Project",
         "logo-icon-name",     "utilities-system-monitor",
         "authors",            authors,
         "artists",            artists,
@@ -196,7 +197,7 @@ cb_about (GtkAction *action, gpointer data)
         "translator-credits", _("translator-credits"),
         "license",            "GPL 2+",
         "wrap-license",       TRUE,
-        "website",            "http://www.gde2-desktop.org",
+        "website",            "https://gde2-desktop.github.io",
         NULL
         );
 }
